@@ -1,9 +1,12 @@
 #include <stdio.h>
 
-int main(void){
+/* main function prints a text*/
+int main(void)
+{
 
-puts("Programming is like building a multilingual puzzle \n");
+puts(""Programming is like building a multilingual puzzle \n");
 
 return(0);
+
 }
 
