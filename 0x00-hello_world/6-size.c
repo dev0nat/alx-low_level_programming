@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - prints sizeof reserved variables
  *
  * Return: returns 0 (success)
