@@ -1,17 +1,13 @@
 #include <stdio.h>
 
 /**
- *  main function prints a text
+ *  main - function prints a text
  *
- *  return returns 0
+ *  Return: returns 0 (Success)
  */
-
 int main(void)
 {
-
-puts("\"Programming is like building a multilingual puzzle");
-
-return (0);
-
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
 
