@@ -15,7 +15,7 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
-	printf("%s %i is", str, n);
+	printf("%s %i is ", str, n);
 	n %= 10;
 	if (n > 5)
 	{
