@@ -15,19 +15,19 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
-	n %= 10;
 	printf("%s %i is", str, n);
+	n %= 10;
 	if (n > 5)
 	{
-	printf("and is greater than 5\n", str, n);
+	printf("%i and is greater than 5\n", n);
 	}
 	else if (n == 0)
 	{
-	printf("and is 0\n", str, n);
+	printf("%i and is 0\n", n);
 	}
 	else if (n < 6 && n != 6)
 	{
-	printf("and is less than 6 and not 0\n", str, n);
+	printf("%i and is less than 6 and not 0\n", n);
 	}
 
 	return (0);
