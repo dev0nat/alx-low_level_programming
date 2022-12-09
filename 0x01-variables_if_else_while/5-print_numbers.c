@@ -11,7 +11,7 @@ int main(void)
 	int x = 0;
 
 	for (; x < 10; x++)
-	puts(x)
+	printf(x);
 	putchar('\n');
 	return (0);
 }
