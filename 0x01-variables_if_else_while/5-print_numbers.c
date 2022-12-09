@@ -11,8 +11,8 @@ int main(void)
 	int x = 0;
 
 	for (; x < 10; x++)
-	printf(x);
-	putchar('\n');
+	printf("%i", x);
+	printf("\n");
 	return (0);
 }
 
