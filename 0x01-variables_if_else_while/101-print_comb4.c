@@ -3,7 +3,7 @@
 /**
  * main - possible combos of 3 digits
  *
- * Return: (0) Success
+ * Return: (0) Success.
  */
 
 int main(void)
@@ -37,6 +37,6 @@ int main(void)
 			}
 		}
 		putchar('\n');
-		return (0);
 	}
+	return (0);
 }
