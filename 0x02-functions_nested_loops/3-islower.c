@@ -10,7 +10,6 @@
 int _islower(int c)
 {
 
-	c = 'c';
 	if (islower(c))
 	{
 		return (1);
