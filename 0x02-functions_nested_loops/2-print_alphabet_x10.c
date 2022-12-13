@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+ *  print_alphabet_x10 - prints alphabets with putchar x10
+ *
+ *  Return: returns nothing
+ */
 void print_alphabet_x10(void)
 {
 
