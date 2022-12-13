@@ -3,7 +3,8 @@
 /**
  *  add - functions takes two integers and prints out their sum
  *
- * @a & @b holds inputs
+ * @a: holds first input
+ * @b: holds first input
  *
  *  Return: returns sum of a and b
  */
