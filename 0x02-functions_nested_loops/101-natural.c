@@ -15,7 +15,7 @@ int main(void)
 	{
 		div = div + n;
 	}
-	printf("%d \n", div);
+	printf("%d\n", div);
 
 	return (0);
 }
