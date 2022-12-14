@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- *  positive_or_negative - function checkes whether an integer is positive negative or 0
+ * positive_or_negative - function checkes if an input is +,-,0
  *
  * @i: holds an integer
  *
- *  Return: returns 0 (Success)
+ * Return: returns 0 (Success)
  */
 void positive_or_negative(int i)
 {
