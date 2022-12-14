@@ -1,5 +1,12 @@
-#include "main.h"
+#include <stdio.h>
 
+/**
+ *  positive_or_negative - function checkes whether an integer is positive negative or 0
+ *
+ * @i: holds an integer
+ *
+ *  Return: returns 0 (Success)
+ */
 void positive_or_negative(int i)
 {
 	if (i > 0)
