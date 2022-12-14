@@ -10,7 +10,7 @@ int main(void)
 	unsigned long f1 = 0, f2 = 1, sum;
 	int i;
 
-	for (int i = 0; i < 50; i++)
+	for (i = 0; i < 50; i++)
 	{
 		sum = f1 + f2;
 		printf("%lu", sum);
