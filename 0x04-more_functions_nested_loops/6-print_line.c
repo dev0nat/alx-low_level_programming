@@ -4,7 +4,6 @@
  *  print_line - function prints an n number of dash
  *
  * @n: holds our input
- * @i: for iteration
  *
  *  Return: returns nothing
  */
@@ -21,7 +20,7 @@ void print_line(int n)
 		for (i = 1; i <= n; i++)
 		{
 			_putchar('_');
-		_putchar('\n');
 		}
+	_putchar('\n');
 	}
 }
