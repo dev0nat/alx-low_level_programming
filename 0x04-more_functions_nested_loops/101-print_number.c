@@ -1,6 +1,12 @@
 #include "main.h"
 
-
+/**
+ *  print_number - function prints an integer
+ *
+ * @n: holds our input integer
+ *
+ * Return: returns nothing.
+ */
 void print_number(int n)
 {
 	unsigned int num = n;
