@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int inc,pf;
+	int inc, pf;
 	long int num = 612852475143;
 
 	for (inc = 2; num > 1; inc++)
