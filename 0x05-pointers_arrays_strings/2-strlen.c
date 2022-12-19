@@ -5,7 +5,7 @@
  *
  * @s: holds our pointer char
  *
- * return: returns the length of *s
+ * Return: returns the length of *s
  */
 int _strlen(char *s)
 {
