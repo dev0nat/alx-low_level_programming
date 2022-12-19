@@ -1,5 +1,12 @@
 #include "main.h"
 
+/**
+ * _puts - function prints an integer
+ *
+ * @str: holds our input integer
+ *
+ * Return: prints the string.
+ */
 void _puts(char *str)
 {
 	int i;
