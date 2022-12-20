@@ -2,8 +2,7 @@
 
 /**
  * rev_string - reverses our input string
- * @s: holds our input
- * Return: string reversed
+ * @s: holds our input char
  */
 void rev_string(char *s)
 {
@@ -15,7 +14,7 @@ void rev_string(char *s)
 		length++;
 	}
 
-	for (i = length - 1; i >= 0; i--)
+	for (i = length - 1; i >= length / 2; i--)
 	{
 		rev = s[i];
 		s[i] = s[length - i - 1];
