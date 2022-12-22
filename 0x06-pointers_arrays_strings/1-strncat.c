@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *_strcat - concatinates dest and src strings
+ *_strncat - concatinates dest and src strings
  *@dest: destination string.
  *@src: source string.
  *@n: number of by to be appended
