@@ -4,6 +4,7 @@
 /**
  * init_dog - function intializes dog struct
  *
+ * @d - instance variable of dog struct
  * @name: dog's name
  * @age: dog's age
  * @owner: dog's owner
