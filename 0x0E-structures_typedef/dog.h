@@ -2,7 +2,7 @@
 #define DOG_H
 
 /**
- * struct dog - dog type with the following elements
+ * struct dog - dog type with the following elements.
  *
  * @name: First member
  * @age: Second member
