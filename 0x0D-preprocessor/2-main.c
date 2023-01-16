@@ -1,9 +1,13 @@
-#include "main.h"
-#include<stdio.h>
+#include <stdio.h>
 
+/**
+ * main - file prints extended file name.
+ *
+ * Return: returns 0 (Success)
+ */
 int main(void)
 {
-	printf("File :%s\n", __FILE__);
+	printf("%s\n", __FILE__);
 
 	return (0);
 }
