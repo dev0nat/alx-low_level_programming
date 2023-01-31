@@ -15,7 +15,7 @@ listint_t *reverse_listint(listint_t **head)
 
 	p = NULL;
 
-	while ((*head)->next != NULL)
+	while (*head != NULL)
 	{
 		n = (*head)->next;
 		(*head)->next = p;
