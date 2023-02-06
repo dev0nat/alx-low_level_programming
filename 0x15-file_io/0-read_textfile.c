@@ -2,7 +2,7 @@
 
 /**
  * read_textfile- Function reads a text file and prints it to standard output.
- * 
+ *
  * @filename: Pointer to name of the file
  * @letters: number of letters to be read
  * Return: the actual number of letters it could read and print
