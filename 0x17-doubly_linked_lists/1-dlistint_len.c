@@ -2,7 +2,7 @@
 
 /**
   * dlistint_len - Function returns the number of elements in a linked list.
-  * 
+  *
   * @h: The head of the dlistint_t list.
   * Return: Number of elements in the doubly linked list
   */
