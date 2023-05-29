@@ -1,7 +1,6 @@
-# make -f 2-Makefile
- 
+# make -f 2-Makefile 
 CC = gcc
-SRC = main.c holberton.c
+SRC = main.c school.c
 OBJ = $(SRC:.c=.o)
 NAME = holberton
 all: $(OBJ)
